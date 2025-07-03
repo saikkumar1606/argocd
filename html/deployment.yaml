@@ -15,4 +15,4 @@ spec:
     spec:
       containers:
       - name: java
-        image: saikkumar1606/canary-v1-v2:v1
+        image: saikkumar1606/canary-v1-v2:v2
